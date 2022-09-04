@@ -1,4 +1,4 @@
-### 👋 Introduction
+##### 👋 Introduction
 * 안녕하세요 신입 프론트 개발자 양수연입니다. 현재 React 공부 중입니다. 
 
 
