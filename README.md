@@ -8,7 +8,7 @@
 
 
 ##### Studying
-<img src="https://img.shields.io/badge/React-#61DAFB?style=flat&logo=React&logoColor=#white"/>
+![리엑트](<img src="https://img.shields.io/badge/React-#61DAFB?style=flat&logo=React&logoColor=#white"/>)
 
 
 
