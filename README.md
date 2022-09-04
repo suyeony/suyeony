@@ -1,3 +1,4 @@
+<p align="center>
 ##### 👋 Introduction
 ###### 안녕하세요 신입 프론트 개발자 양수연입니다. 현재 React 공부 중입니다. 
 
@@ -8,14 +9,16 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=React&logoColor=white">
 
 
+
 ##### Studying
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
 
 
+                                                                                          
 ##### Tool
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=React&logoColor=white">
 
-
+</p>
 
 <!--
 **suyeony/suyeony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
