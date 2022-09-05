@@ -1,5 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20I'm%20Suyeon&fontSize=50)
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20I'm%20Suyeon&fontSize=90)
+
   
 ##### 👋 Introduction
 ###### 안녕하세요 신입 프론트 개발자 양수연입니다. 현재 React 공부 중입니다. 
