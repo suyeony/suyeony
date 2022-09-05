@@ -1,6 +1,10 @@
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20I'm%20Suyeon&fontSize=50)
-
+<p align="center>
+<!--
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&width=height=300&section=header&text=Hello%20I'm%20Suyeon&fontSize=50)
+-->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Suyeon Yang%20Suyeon&fontSize=50" />
+          
+</p>
 
 <div align="center">
 
