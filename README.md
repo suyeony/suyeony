@@ -24,7 +24,7 @@
 
                                                                                           
 ##### Tool
-<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
 
 </div>
 
